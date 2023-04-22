@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+}
+html{
+  /* background-color: rgb(255, 53, 67); */
+  background-image: url(https://media.giphy.com/media/Nw8z2olm0nGHC/giphy.gif);
+  background-size: cover;
+  font-family: 'Oxygen';
+  text-align: center;
+  padding: 30px;
+}
+
+select, button{
+  font-family: 'Oxygen';
+  padding: 10px;
+  border-radius: 10px;
+}
+button{
+  background-color: yellow;
+  color: black;
+  border: none;
+  
+}
+h1{
+  color: white;
+}
+#funFacts{
+  font-family: 'Oxygen';
+}
+#getRead{
+  color: white;
+}
+
